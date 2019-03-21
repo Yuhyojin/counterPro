@@ -28,7 +28,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func ButtonBpressed(_ sender: Any) {
-        labelB.text = "Button B Pressed"
+        labelB.text = "Button B Pressed";
     }
 }
 
